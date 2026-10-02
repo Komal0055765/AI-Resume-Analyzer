@@ -126,6 +126,8 @@ Career resource integration
 Agentic resume improvement workflow
 Resume scoring and comparison
 Deployment as a public web application
+
+
 👩‍💻 Author
 Komal singh
 (AI & Machine Learning Student)
